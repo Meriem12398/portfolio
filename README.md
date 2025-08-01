@@ -14,5 +14,5 @@ Je suis Meriem, étudiante en développement des systèmes informatiques, passio
 ➡️ [Voir le site](https://meriem12398.github.io/portfolio/)
 
 ## 📫 Contact :
-**Email** : meriem.dev@example.com  
+**Email** : meriemjerbi23@gmail.com  
 **GitHub** : [Meriem12398](https://github.com/Meriem12398)
